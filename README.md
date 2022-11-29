@@ -2,7 +2,7 @@
 
 Team name: Thebest
 
-Team members and their email addresses: Michael Mason (MIM213@pitt.edu) Xavier Bear ()
+Team members and their email addresses: Michael Mason (MIM213@pitt.edu) Xavier Bear (Xmb1@pitt.edu)
 
 Description and links to the datasets used:
 Doggo.csv is a csv of all registered dogs in the city of Pittsburgh  (https://data.wprdc.org/dataset/allegheny-county-dog-licenses)
