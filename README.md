@@ -1,6 +1,6 @@
 # TheBest
 
-Team name: Thebest
+Team name: Dawg Pound
 
 Team members and their email addresses: Michael Mason (MIM213@pitt.edu) Xavier Bear (Xmb1@pitt.edu)
 
